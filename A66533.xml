@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Palinodia. Sive Fama vapulans occasioned by her retractation of her precipitate censure of Mrs. Anne Gibbs, by her real convert and re-admirer, R.W.</title>
+            <author>Walden, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66533</idno>
+            <idno type="STC">Wing W288</idno>
+            <idno type="STC">ESTC R219291</idno>
+            <idno type="EEBO-CITATION">99830781</idno>
+            <idno type="PROQUEST">99830781</idno>
+            <idno type="VID">35235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1878:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Palinodia. Sive Fama vapulans occasioned by her retractation of her precipitate censure of Mrs. Anne Gibbs, by her real convert and re-admirer, R.W.</title>
+                  <author>Walden, Richard.</author>
+               </titleStmt>
+               <extent>[2], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, anno virginis parturientis, 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.W. = Richard Walden.</note>
+                  <note>The first word on the title page is Greek.</note>
+                  <note>Place of publication from Madan.</note>
+                  <note>In verse.</note>
+                  <note>Madan --- "The two pieces next above seem to be one octavo sheet. The former (Wing W289) is a sorrowful complaint that mrs. Gibbs was no better than she should be, and the latter (Wing 288) a palinode confessing that the writer was mistaken in accusing the actress, who is now restored to favour.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Anne Gibbs = Anne Shadwell, wife of Thomas Shadwell.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shadwell, Anne --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35235:1" rendition="simple:additions"/>
+            <p>ΠΑΛΙΝΟΔΙΑ.</p>
+            <p>Sive <hi>Fama Vapulans:</hi> Occaſioned by her Retractation of her precipitate cenſure of M<hi rend="sup">rs</hi> 
+               <hi>ANNE GIBBS,</hi>
+            </p>
+            <p>By her real Convert and Re-admirer, R. W.</p>
+            <q xml:lang="lat">
+               <bibl>An. Mar. a Schur. in Apol.</bibl>
+               <l>Nec viclaſſe tuas leges Aſtraea putabor;</l>
+               <l>Quippe ſuum tribui cuilibet ipſae jubes.</l>
+            </q>
+            <q>
+               <l>Let me not ſeem, <hi>Aſtraea,</hi> to dethrone</l>
+               <l>Thy Laws, thou bid'ſt that all ſhould have their own.</l>
+            </q>
+            <p>Printed, Anno Virginis parturientis, 1662.</p>
+            <pb facs="tcp:35235:2"/>
+            <pb facs="tcp:35235:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="dramatic_poem">
+            <pb facs="tcp:35235:3"/>
+            <opener>
+               <dateline>Ex ſpelunca Juxta tumeſcentis Laugherni ripas <date>9bris 26, 1662.</date>
+               </dateline>
+            </opener>
+            <pb n="1" facs="tcp:35235:3"/>
+            <head>Fama Vapulans.</head>
+            <div type="protasis">
+               <head>PROTASIS, Ad Muſam.</head>
+               <lg>
+                  <l>PIſh, pre'thee ſleep, my <hi>Muſe,</hi> do not moleſt</l>
+                  <l>The <hi>Theſpian Veſtalls,</hi> let them take their reſt.</l>
+                  <l>Alas! this purblind world will never ſee,</l>
+                  <l>Do what thou can'ſt, their own ſtupidity:</l>
+                  <l>Perhaps ſome civilized men may daign</l>
+                  <l>To look upon this iſſue of thy brain</l>
+                  <l>With candor, but the vulgar are a rude,</l>
+                  <l>Malignant, head-ſtrong, hare-brain'd multitude.</l>
+                  <l>A <hi>Carnaval</hi> to them preſents more ſport</l>
+                  <l>Then the elaborate <hi>Opera's</hi> o'th' Court;</l>
+                  <l>And in their Dances they had rather follow</l>
+                  <l>
+                     <hi>Pan's</hi> ruſtick reeds, then th'harp of god <hi>Apollo.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Well, if thou wilt not, I can ſay no more,</l>
+                  <l>Then let thy Sonnets rant, thy <hi>Satyrs</hi> rore.</l>
+                  <l>Belch <hi>Io-paeans</hi> on this pond'rous theme,</l>
+                  <l>And thunder execrations againſt them.</l>
+                  <l>I've ſpoke to <hi>Sabrine,</hi> and ſhe will inſpire,</l>
+                  <l>And let her <hi>Nymphs</hi> bring fuel to, thy fire:</l>
+                  <l>That 'ſpite of all opponents every page</l>
+                  <l>May be replete with true poetick rage,</l>
+                  <pb n="2" facs="tcp:35235:4"/>
+                  <l> And ſwell with holy fury 'gainſt all thoſe</l>
+                  <l>That dare the chaſt <hi>Panaletha</hi> oppoſe.</l>
+               </lg>
+            </div>
+            <div type="epitasis">
+               <head>EPITASIS.</head>
+               <lg>
+                  <l>
+                     <hi>REcta in curiam,</hi> we here preſent</l>
+                  <l>
+                     <hi>L<g ref="char:V">Ʋ</g>CRETIA</hi> adjudg'd incontinent</l>
+                  <l>By a pretended court proclaim'd of late</l>
+                  <l>In <hi>Fame</hi>'s great name, which we ſeek to <hi>abate.</hi>
+                  </l>
+                  <l>In that <hi>Tribunal</hi> it was ſhew'd how ſhe</l>
+                  <l>Had forfeited her claim to chaſtity.</l>
+                  <l>The reaſon urg'd was this. How elſe could thoſe,</l>
+                  <l>For ſhe had <hi>Camrades</hi> you muſt know, expoſe</l>
+                  <l>Themſelves upon a Stage, or to the life</l>
+                  <l>Perſonate <hi>Annabell',</hi> or <hi>Harebrain</hi>'s wife?</l>
+               </lg>
+               <lg>
+                  <l>But ſee the fallacy, my Author vows</l>
+                  <l>
+                     <hi>A man may act thoſe things he never knows.</hi>
+                  </l>
+                  <l>
+                     <hi>Think you that none can perſenate a ſin</hi>
+                  </l>
+                  <l>
+                     <hi>But that which he himſelf hath wallowed in?</hi>
+                  </l>
+                  <l>
+                     <hi>You may as well averre Players are made</hi>
+                  </l>
+                  <l>
+                     <hi>Apprentices to every manual Trade.</hi>
+                  </l>
+                  <l>
+                     <hi>Or, 'cauſe you know they act and ſpeak ſuch things</hi>
+                  </l>
+                  <l>
+                     <hi>That appertain to Princes, ſay they're Kings.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Al<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſs poor <hi>Dramaticks,</hi> ſtriving to ſhun</l>
+                  <l>One gulf, ye full into another run.</l>
+                  <l>
+                     <hi>Hiſtrio-maſtix</hi> carp'd at ye becauſe</l>
+                  <l>He thought your men before broke Natur's Laws</l>
+                  <l>In uſing Women's cloaths, but <hi>Cynthius aurem</hi>
+                  </l>
+                  <l>
+                     <hi>Vellit,</hi> and we've got a <hi>Quieſcas</hi> for him.</l>
+                  <pb n="3" facs="tcp:35235:4"/>
+                  <l> Yet now that they perform their parts themſelves,</l>
+                  <l>Your Scenes are threatend by as dangerous ſhelves.</l>
+                  <l>The curſed <hi>Hydra Mome</hi> aſſaults their names,</l>
+                  <l>Miſtaking what's their glory for their ſhames:</l>
+                  <l>They're impudent Sluts crys one, for otherwiſe</l>
+                  <l>How could they thus ſurfeit Spectators eyes</l>
+                  <l>With their laſcivious geſtures? 'nother ſwears</l>
+                  <l>If they be honeſt he will forfeit's ears.</l>
+                  <l>Nay <hi>Lais</hi> too will ſay, as I hear tell,</l>
+                  <l>Can they be chaſte? it is impoſſible.</l>
+                  <l>Thinking perhaps that ſhe, although ſhe can</l>
+                  <l>Within her chamber boldly treat a man,</l>
+                  <l>Yet could not on a <hi>Theatre</hi> obtrude</l>
+                  <l>Her confidence before a multitude.</l>
+                  <l>And therefore by her <hi>Logick</hi> doth infer</l>
+                  <l>They needs muſt be as errand Whores as her.</l>
+                  <l>So <hi>Clodius Maechos</hi> too, but wiſe men know</l>
+                  <l>They'r ne'r th' more honeſt for pretending ſo.</l>
+               </lg>
+               <lg>
+                  <l>If ſeeming ſanctity be all thou haſt</l>
+                  <l>Whereby to judge theſe <hi>Sodom Apples</hi> chaſt,</l>
+                  <l>Thoſe that have found ſome rotten at the core,</l>
+                  <l>May well conclude <hi>each woman is a whore.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Reader, we've been <hi>defendant</hi> hitherto,</l>
+                  <l>But now we mean to ſpeak as <hi>Plaintiff</hi> too.</l>
+               </lg>
+            </div>
+            <div type="catastasis">
+               <head>CATASTASIS.</head>
+               <lg>
+                  <l>PEace ſhameleſs <hi>Trumpetreſs,</hi> do not delude</l>
+                  <l>With <hi>Phantaſms</hi> the too credulous multitude.</l>
+                  <pb n="4" facs="tcp:35235:5"/>
+                  <l> Silence thy brazen Trumpet, that no further</l>
+                  <l>It calumnize the innocent <hi>Recorder.</hi>
+                  </l>
+                  <l>Recant thoſe falſe <hi>Alarms</hi> of thy rude blaſt</l>
+                  <l>Which have the fair LUCRETIA's ſhrine defac'd.</l>
+                  <l>Let <hi>Albion</hi> that rich <hi>Caskanet</hi> inhance.</l>
+                  <l>And not reject it out of ignorance.</l>
+                  <l>Let not <hi>Exoticks,</hi> who already doe</l>
+                  <l>For Horſes, 'count her th' Hell for actors too.</l>
+               </lg>
+               <lg>
+                  <l>Oh how can ſhe, whoſe face long ſince confuted</l>
+                  <l>The Divine Heathen's<note n="(a)" place="margin">
+                        <q xml:lang="lat">Artifices Scenici qui imitantur affectus &amp;c. hoc Jn<g ref="char:EOLhyphen"/>dicio imitantur verecundiam, Dejiciunt vultum, verba ſub<g ref="char:EOLhyphen"/>mittunt, &amp;c. Ruborem ſibi exprimere non peſſunt.</q> 
+                        <bibl>Sen. ad Luc. Ep. 11.</bibl>
+                     </note>maxim, be reputed</l>
+                  <l>Unchaſt? when't is the firſt <hi>Lucretia</hi>'s glory</l>
+                  <l>That we by this do now believe her Story.</l>
+                  <l>When had it not been ſenſibly to us</l>
+                  <l>Demonſtrated, 't had ſtill ſeem'd fabulous.</l>
+               </lg>
+               <lg>
+                  <l>Who ſaw thoſe roſy bluſhes that did deck</l>
+                  <l>The intervals of her inamell'd cheek</l>
+                  <l>At ſight of <hi>Sextus,</hi> or th' complacency</l>
+                  <l>Wherewith ſhe acted her ſelf-butchery?</l>
+                  <l>But would conclude ſhe his vile act abhorr'd</l>
+                  <l>As much in deed as moſt do now in word.</l>
+                  <l>Who ſaw with what reluctance and diſguſt</l>
+                  <l>She yeelded but in ſhew to <hi>Brothwel</hi>'s luſt.</l>
+                  <l>But muſt aſſert her chaſtity, or ſweare</l>
+                  <l>There is not one deſerves a <hi>St<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>la</hi> here.</l>
+               </lg>
+            </div>
+            <div type="catastrophe">
+               <pb n="5" facs="tcp:35235:5"/>
+               <head>CATASTROPHE.</head>
+               <lg>
+                  <l>ANd now thou ſwift'ſt of
+<note n="(a)" place="margin">
+                        <q xml:lang="lat">
+                           <l>Fama malum quo non aliud velocius ullum,</l>
+                           <l>Mebilitate viget, vireſ<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> acquirit eundo.</l>
+                        </q>
+                        <bibl>Virg. Aen. 4.</bibl>
+                     </note>evils which doſt gain</l>
+                  <l>By motion ſtrength, in flying force obtain;</l>
+                  <l>Say not my <hi>Muſe</hi> was ſecretly ſuborn'd</l>
+                  <l>I'd have thee know ſuch offices ſhe ſcorn'd</l>
+                  <l>Quite from her infancy, and doth deteſt</l>
+                  <l>To plead for prejudice or intereſt.</l>
+                  <l>'Twas love to Truth which made me to incur</l>
+                  <l>The vulgar hate, which over-ruled her.</l>
+               </lg>
+               <lg>
+                  <l>'Would <hi>Pantemimick Teletes</hi> had liv'd</l>
+                  <l>In theſe depraved times, how'd he have griev'd</l>
+                  <l>And wrung his hands, to ſee his Art abus'd</l>
+                  <l>And his beloved Pupil's name miſus'd.</l>
+               </lg>
+               <lg>
+                  <l>'Tis not that <hi>Dionyſia,</hi> whoſe fame</l>
+                  <l>Long ſince gave great<note n="(b)" place="margin">Who for his action was called <hi>Geſticulatoriam Dio<g ref="char:EOLhyphen"/>nyſiam,</hi> from a ſhe Chironomer of that name.</note>
+                     <hi>Hortenſius</hi> his name;</l>
+                  <l>She joyns not <hi>Eſau</hi>'s hands to <hi>Jacob</hi>'s voice,</l>
+                  <l>Nor doth ſhe perpetrate the ſinalleſt vice</l>
+                  <l>'Gainſt his <hi>hand-law,</hi> but won the <hi>Palm</hi> in ſpite</l>
+                  <l>Of famous <hi>Roſcius<note n="(c)" place="margin">
+                           <hi>Delicias ſuas,</hi> ſo he uſed to call him.</note>Cicero</hi>'s delight.</l>
+                  <l>Who, had he liv'd until this laſt worſt age</l>
+                  <l>Had lack'd a Patron to repel the rage</l>
+                  <l>Of th' Rabble; <hi>Tully</hi> would have chang'd his cauſe,</l>
+                  <l>And reſcu'd chaſt <hi>L<g ref="char:V">Ʋ</g>CRETIA</hi> from the jawes</l>
+                  <pb n="6" facs="tcp:35235:6"/>
+                  <l> Of envious obloquy, making each one</l>
+                  <l>Lay's hand on's mouth and act <hi>Sigalion.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But why do I expatiate abroad?</l>
+                  <l>'Twas mean't for an <hi>Abridgement,</hi> not a <hi>Code.</hi>
+                  </l>
+                  <l>May'ſt thou inherit baſe <hi>Caſſandra</hi>'s fate,</l>
+                  <l>As the demerit of thy vilder hate.</l>
+                  <l>Thereby ſupporting her now totterring State,</l>
+                  <l>Whom many envy, few can emulate.</l>
+               </lg>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+         <div xml:lang="lat" type="dedication">
+            <head>LUCRETIAE SACRUM.</head>
+            <head type="sub">Auctariolum.</head>
+            <head type="sub">Anne Gibbs Ἀναγραμματικῶσ. Sing Ben-ab</head>
+            <lg>
+               <l>Your pardon, Faireſt, that, into the quire</l>
+               <l>Of your Adorers, my diſcordant <hi>Lyre</hi>
+               </l>
+               <l>Hath thus far ventur'd, ſtrucken to the ſame</l>
+               <l>By th' <hi>Cabaliſtick accents</hi> of your name.</l>
+               <pb n="7" facs="tcp:35235:6"/>
+               <l> To which ſhe thought her ſelf oblig'd in duty</l>
+               <l>For to ſubmit as vaſſal of your beauty.</l>
+               <l>And by her Preſident <hi>Each Fathers Son,</hi>
+               </l>
+               <l>She hopes, will modul forth an <hi>
+                     <g ref="char:V">Ʋ</g>niſon.</hi>
+               </l>
+               <l>That to your glory this verſatile round</l>
+               <l>May ſtill with <hi>Eccho'd Diapaſons</hi> ſound.</l>
+            </lg>
+         </div>
+         <div type="acrostic_poem">
+            <head>Votivum.</head>
+            <lg>
+               <l>
+                  <hi>Mris</hi>ay all thoſe <hi>Conſtellations,</hi> we allow</l>
+               <l>
+                  <hi>A</hi> happy <hi>geniture,</hi> ſtill ſmile on you,</l>
+               <l>
+                  <hi>N</hi>ever let ought <hi>Malignant</hi> once moleſt</l>
+               <l>
+                  <hi>
+                     <hi>N</hi>atures Aenigma</hi> lodging ſuch a gueſt.</l>
+               <l>
+                  <hi>E</hi>xcel in pow'r as goodneſs, to defend you,</l>
+               <l>
+                  <hi>G</hi>ood and propitious Stars always attend you.</l>
+               <l>
+                  <hi>I</hi>ntrinſick and externe formoſitie</l>
+               <l>
+                  <hi>B</hi>eatify your <hi>Gordian</hi> nuptial tie.</l>
+               <l>
+                  <hi>B</hi>ut when the <hi>Fates</hi> conclude that you muſt dy,</l>
+               <l>
+                  <hi>S</hi>urvive in bliſs to all Eternity.</l>
+            </lg>
+            <epigraph>
+               <q xml:lang="lat">Cui non datur.</q>
+            </epigraph>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
